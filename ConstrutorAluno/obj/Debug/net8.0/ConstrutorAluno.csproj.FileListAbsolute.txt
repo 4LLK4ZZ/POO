@@ -1,0 +1,14 @@
+C:\Users\Allkazz\Documents\POO noite\ConstrutorAluno\obj\Debug\net8.0\ConstrutorAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allkazz\Documents\POO noite\ConstrutorAluno\obj\Debug\net8.0\ConstrutorAluno.AssemblyInfoInputs.cache
+C:\Users\Allkazz\Documents\POO noite\ConstrutorAluno\obj\Debug\net8.0\ConstrutorAluno.AssemblyInfo.cs
+C:\Users\Allkazz\Documents\POO noite\ConstrutorAluno\obj\Debug\net8.0\ConstrutorAluno.csproj.CoreCompileInputs.cache
+C:\Users\Allkazz\Documents\POO noite\ConstrutorAluno\bin\Debug\net8.0\ConstrutorAluno.exe
+C:\Users\Allkazz\Documents\POO noite\ConstrutorAluno\bin\Debug\net8.0\ConstrutorAluno.deps.json
+C:\Users\Allkazz\Documents\POO noite\ConstrutorAluno\bin\Debug\net8.0\ConstrutorAluno.runtimeconfig.json
+C:\Users\Allkazz\Documents\POO noite\ConstrutorAluno\bin\Debug\net8.0\ConstrutorAluno.dll
+C:\Users\Allkazz\Documents\POO noite\ConstrutorAluno\bin\Debug\net8.0\ConstrutorAluno.pdb
+C:\Users\Allkazz\Documents\POO noite\ConstrutorAluno\obj\Debug\net8.0\ConstrutorAluno.dll
+C:\Users\Allkazz\Documents\POO noite\ConstrutorAluno\obj\Debug\net8.0\refint\ConstrutorAluno.dll
+C:\Users\Allkazz\Documents\POO noite\ConstrutorAluno\obj\Debug\net8.0\ConstrutorAluno.pdb
+C:\Users\Allkazz\Documents\POO noite\ConstrutorAluno\obj\Debug\net8.0\ConstrutorAluno.genruntimeconfig.cache
+C:\Users\Allkazz\Documents\POO noite\ConstrutorAluno\obj\Debug\net8.0\ref\ConstrutorAluno.dll

@@ -1,0 +1,29 @@
+C:\Users\Aluno\Downloads\YCU3BT7JFXHYQHC5BCY7RYD2XB4PRF\POO noite\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\YCU3BT7JFXHYQHC5BCY7RYD2XB4PRF\POO noite\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\YCU3BT7JFXHYQHC5BCY7RYD2XB4PRF\POO noite\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\YCU3BT7JFXHYQHC5BCY7RYD2XB4PRF\POO noite\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\YCU3BT7JFXHYQHC5BCY7RYD2XB4PRF\POO noite\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\YCU3BT7JFXHYQHC5BCY7RYD2XB4PRF\POO noite\AgregacaoArrayConta\bin\Debug\net6.0\AgregacaoArrayConta.exe
+C:\Users\Aluno\Downloads\YCU3BT7JFXHYQHC5BCY7RYD2XB4PRF\POO noite\AgregacaoArrayConta\bin\Debug\net6.0\AgregacaoArrayConta.deps.json
+C:\Users\Aluno\Downloads\YCU3BT7JFXHYQHC5BCY7RYD2XB4PRF\POO noite\AgregacaoArrayConta\bin\Debug\net6.0\AgregacaoArrayConta.runtimeconfig.json
+C:\Users\Aluno\Downloads\YCU3BT7JFXHYQHC5BCY7RYD2XB4PRF\POO noite\AgregacaoArrayConta\bin\Debug\net6.0\AgregacaoArrayConta.dll
+C:\Users\Aluno\Downloads\YCU3BT7JFXHYQHC5BCY7RYD2XB4PRF\POO noite\AgregacaoArrayConta\bin\Debug\net6.0\AgregacaoArrayConta.pdb
+C:\Users\Aluno\Downloads\YCU3BT7JFXHYQHC5BCY7RYD2XB4PRF\POO noite\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.dll
+C:\Users\Aluno\Downloads\YCU3BT7JFXHYQHC5BCY7RYD2XB4PRF\POO noite\AgregacaoArrayConta\obj\Debug\net6.0\refint\AgregacaoArrayConta.dll
+C:\Users\Aluno\Downloads\YCU3BT7JFXHYQHC5BCY7RYD2XB4PRF\POO noite\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.pdb
+C:\Users\Aluno\Downloads\YCU3BT7JFXHYQHC5BCY7RYD2XB4PRF\POO noite\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\YCU3BT7JFXHYQHC5BCY7RYD2XB4PRF\POO noite\AgregacaoArrayConta\obj\Debug\net6.0\ref\AgregacaoArrayConta.dll
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoArrayConta\bin\Debug\net6.0\AgregacaoArrayConta.exe
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoArrayConta\bin\Debug\net6.0\AgregacaoArrayConta.deps.json
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoArrayConta\bin\Debug\net6.0\AgregacaoArrayConta.runtimeconfig.json
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoArrayConta\bin\Debug\net6.0\AgregacaoArrayConta.dll
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoArrayConta\bin\Debug\net6.0\AgregacaoArrayConta.pdb
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.AssemblyInfoInputs.cache
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.AssemblyInfo.cs
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.csproj.CoreCompileInputs.cache
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.dll
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoArrayConta\obj\Debug\net6.0\refint\AgregacaoArrayConta.dll
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.pdb
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoArrayConta\obj\Debug\net6.0\AgregacaoArrayConta.genruntimeconfig.cache
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoArrayConta\obj\Debug\net6.0\ref\AgregacaoArrayConta.dll

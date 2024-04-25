@@ -1,0 +1,14 @@
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.AssemblyInfoInputs.cache
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.AssemblyInfo.cs
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.csproj.CoreCompileInputs.cache
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.exe
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.deps.json
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.runtimeconfig.json
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.dll
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.pdb
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.dll
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoVenda\obj\Debug\net8.0\refint\AgregacaoVenda.dll
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.pdb
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.genruntimeconfig.cache
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\AgregacaoVenda\obj\Debug\net8.0\ref\AgregacaoVenda.dll

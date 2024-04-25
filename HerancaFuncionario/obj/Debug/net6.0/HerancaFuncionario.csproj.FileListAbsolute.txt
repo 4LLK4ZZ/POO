@@ -1,0 +1,14 @@
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\HerancaFuncionario\bin\Debug\net6.0\HerancaFuncionario.exe
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\HerancaFuncionario\bin\Debug\net6.0\HerancaFuncionario.deps.json
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\HerancaFuncionario\bin\Debug\net6.0\HerancaFuncionario.runtimeconfig.json
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\HerancaFuncionario\bin\Debug\net6.0\HerancaFuncionario.dll
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\HerancaFuncionario\bin\Debug\net6.0\HerancaFuncionario.pdb
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.AssemblyInfoInputs.cache
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.AssemblyInfo.cs
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.dll
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\HerancaFuncionario\obj\Debug\net6.0\refint\HerancaFuncionario.dll
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.pdb
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.genruntimeconfig.cache
+C:\Users\Allkazz\Downloads\POO-noite-main\POO-noite-main\HerancaFuncionario\obj\Debug\net6.0\ref\HerancaFuncionario.dll
