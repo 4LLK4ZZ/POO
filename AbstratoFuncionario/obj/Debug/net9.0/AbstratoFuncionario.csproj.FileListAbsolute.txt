@@ -1,0 +1,15 @@
+C:\Users\Allkazz\Downloads\POO\AbstratoFuncionario\obj\Debug\net9.0\AbstratoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allkazz\Downloads\POO\AbstratoFuncionario\obj\Debug\net9.0\AbstratoFuncionario.AssemblyInfoInputs.cache
+C:\Users\Allkazz\Downloads\POO\AbstratoFuncionario\obj\Debug\net9.0\AbstratoFuncionario.AssemblyInfo.cs
+C:\Users\Allkazz\Downloads\POO\AbstratoFuncionario\obj\Debug\net9.0\AbstratoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Allkazz\Downloads\POO\AbstratoFuncionario\obj\Debug\net9.0\AbstratoFuncionario.sourcelink.json
+C:\Users\Allkazz\Downloads\POO\AbstratoFuncionario\bin\Debug\net9.0\AbstratoFuncionario.exe
+C:\Users\Allkazz\Downloads\POO\AbstratoFuncionario\bin\Debug\net9.0\AbstratoFuncionario.deps.json
+C:\Users\Allkazz\Downloads\POO\AbstratoFuncionario\bin\Debug\net9.0\AbstratoFuncionario.runtimeconfig.json
+C:\Users\Allkazz\Downloads\POO\AbstratoFuncionario\bin\Debug\net9.0\AbstratoFuncionario.dll
+C:\Users\Allkazz\Downloads\POO\AbstratoFuncionario\bin\Debug\net9.0\AbstratoFuncionario.pdb
+C:\Users\Allkazz\Downloads\POO\AbstratoFuncionario\obj\Debug\net9.0\AbstratoFuncionario.dll
+C:\Users\Allkazz\Downloads\POO\AbstratoFuncionario\obj\Debug\net9.0\refint\AbstratoFuncionario.dll
+C:\Users\Allkazz\Downloads\POO\AbstratoFuncionario\obj\Debug\net9.0\AbstratoFuncionario.pdb
+C:\Users\Allkazz\Downloads\POO\AbstratoFuncionario\obj\Debug\net9.0\AbstratoFuncionario.genruntimeconfig.cache
+C:\Users\Allkazz\Downloads\POO\AbstratoFuncionario\obj\Debug\net9.0\ref\AbstratoFuncionario.dll

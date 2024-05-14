@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgregacaoConta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+218cadf90e538bd2b0d02a8010a85a6ab18c7d9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgregacaoConta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgregacaoConta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
