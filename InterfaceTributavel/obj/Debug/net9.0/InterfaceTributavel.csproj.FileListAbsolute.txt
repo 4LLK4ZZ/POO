@@ -1,0 +1,15 @@
+C:\Users\Allkazz\Downloads\POO\InterfaceTributavel\obj\Debug\net9.0\InterfaceTributavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allkazz\Downloads\POO\InterfaceTributavel\obj\Debug\net9.0\InterfaceTributavel.AssemblyInfoInputs.cache
+C:\Users\Allkazz\Downloads\POO\InterfaceTributavel\obj\Debug\net9.0\InterfaceTributavel.AssemblyInfo.cs
+C:\Users\Allkazz\Downloads\POO\InterfaceTributavel\obj\Debug\net9.0\InterfaceTributavel.csproj.CoreCompileInputs.cache
+C:\Users\Allkazz\Downloads\POO\InterfaceTributavel\obj\Debug\net9.0\InterfaceTributavel.sourcelink.json
+C:\Users\Allkazz\Downloads\POO\InterfaceTributavel\bin\Debug\net9.0\InterfaceTributavel.exe
+C:\Users\Allkazz\Downloads\POO\InterfaceTributavel\bin\Debug\net9.0\InterfaceTributavel.deps.json
+C:\Users\Allkazz\Downloads\POO\InterfaceTributavel\bin\Debug\net9.0\InterfaceTributavel.runtimeconfig.json
+C:\Users\Allkazz\Downloads\POO\InterfaceTributavel\bin\Debug\net9.0\InterfaceTributavel.dll
+C:\Users\Allkazz\Downloads\POO\InterfaceTributavel\bin\Debug\net9.0\InterfaceTributavel.pdb
+C:\Users\Allkazz\Downloads\POO\InterfaceTributavel\obj\Debug\net9.0\InterfaceTributavel.dll
+C:\Users\Allkazz\Downloads\POO\InterfaceTributavel\obj\Debug\net9.0\refint\InterfaceTributavel.dll
+C:\Users\Allkazz\Downloads\POO\InterfaceTributavel\obj\Debug\net9.0\InterfaceTributavel.pdb
+C:\Users\Allkazz\Downloads\POO\InterfaceTributavel\obj\Debug\net9.0\InterfaceTributavel.genruntimeconfig.cache
+C:\Users\Allkazz\Downloads\POO\InterfaceTributavel\obj\Debug\net9.0\ref\InterfaceTributavel.dll

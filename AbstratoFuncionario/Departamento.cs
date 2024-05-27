@@ -16,7 +16,8 @@ namespace AbstratoFuncionario
         public Departamento(int codigo, string nome)
         {
             Codigo = codigo;
-            Nome = nome;            
+            Nome = nome;
+            VetF = new List<Funcionario>();
         }
 
         public void Admitir(Funcionario f)
@@ -36,9 +37,9 @@ namespace AbstratoFuncionario
             for(int i = 0; i < VetF.Count; i++)
             {
                 Funcionario f = VetF.ElementAt<Funcionario>(i);
-                if (f.codigo == codigo)
+                if (f.Codigo == codigo)
                 {
-                    VetF.remove(f)
+                    VetF.Remove(f);
                 }
             }
         }

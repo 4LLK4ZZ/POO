@@ -19,3 +19,28 @@ d2.VetF = new List<Funcionario>();
 d2.Admitir(a2);
 d2.Admitir(c2);
 d2.ListarFuncionarios();
+
+Dependente dep1 = new Dependente("Maria", 25);
+Dependente dep2 = new Dependente("João", 18);
+
+a1.AdicionarDependente(dep1);
+a2.AdicionarDependente(dep2);
+
+a1.ListarDependentes();
+a2.ListarDependentes();
+
+int totalDependentesD1 = CalcTotalDepDepart(d1);
+int totalDependentesD2 = CalcTotalDepDepart(d2);
+
+Console.WriteLine($"Total de dependentes no departamento {d1.Nome}: {totalDependentesD1}");
+Console.WriteLine($"Total de dependentes no departamento {d2.Nome}: {totalDependentesD2}");
+
+int CalcTotalDepDepart(Departamento departamento)
+{
+    int totalDependentes = 0;
+    foreach (var funcionario in departamento.VetF)
+    {
+        totalDependentes += funcionario.CalcTotalDep();
+    }
+    return totalDependentes;
+}
