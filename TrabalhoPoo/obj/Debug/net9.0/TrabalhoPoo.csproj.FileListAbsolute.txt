@@ -1,0 +1,15 @@
+C:\Users\Allkazz\Downloads\POO\TrabalhoPoo\obj\Debug\net9.0\TrabalhoPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allkazz\Downloads\POO\TrabalhoPoo\obj\Debug\net9.0\TrabalhoPoo.AssemblyInfoInputs.cache
+C:\Users\Allkazz\Downloads\POO\TrabalhoPoo\obj\Debug\net9.0\TrabalhoPoo.AssemblyInfo.cs
+C:\Users\Allkazz\Downloads\POO\TrabalhoPoo\obj\Debug\net9.0\TrabalhoPoo.csproj.CoreCompileInputs.cache
+C:\Users\Allkazz\Downloads\POO\TrabalhoPoo\obj\Debug\net9.0\TrabalhoPoo.sourcelink.json
+C:\Users\Allkazz\Downloads\POO\TrabalhoPoo\bin\Debug\net9.0\TrabalhoPoo.exe
+C:\Users\Allkazz\Downloads\POO\TrabalhoPoo\bin\Debug\net9.0\TrabalhoPoo.deps.json
+C:\Users\Allkazz\Downloads\POO\TrabalhoPoo\bin\Debug\net9.0\TrabalhoPoo.runtimeconfig.json
+C:\Users\Allkazz\Downloads\POO\TrabalhoPoo\bin\Debug\net9.0\TrabalhoPoo.dll
+C:\Users\Allkazz\Downloads\POO\TrabalhoPoo\bin\Debug\net9.0\TrabalhoPoo.pdb
+C:\Users\Allkazz\Downloads\POO\TrabalhoPoo\obj\Debug\net9.0\TrabalhoPoo.dll
+C:\Users\Allkazz\Downloads\POO\TrabalhoPoo\obj\Debug\net9.0\refint\TrabalhoPoo.dll
+C:\Users\Allkazz\Downloads\POO\TrabalhoPoo\obj\Debug\net9.0\TrabalhoPoo.pdb
+C:\Users\Allkazz\Downloads\POO\TrabalhoPoo\obj\Debug\net9.0\TrabalhoPoo.genruntimeconfig.cache
+C:\Users\Allkazz\Downloads\POO\TrabalhoPoo\obj\Debug\net9.0\ref\TrabalhoPoo.dll
